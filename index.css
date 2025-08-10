@@ -1396,6 +1396,7 @@ body {
     }
     .project2{
         flex-direction: column-reverse;
+        gap :50px
     }
         }
 .contact {
